@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "717698792075",
-    "firebase_url": "https://flutix-31233.firebaseio.com",
-    "project_id": "flutix-31233",
-    "storage_bucket": "flutix-31233.appspot.com"
+    "project_number": "189678897245",
+    "firebase_url": "https://flutix-9951b.firebaseio.com",
+    "project_id": "flutix-9951b",
+    "storage_bucket": "flutix-9951b.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:717698792075:android:f9d6faeead9df1cf6ef28e",
+        "mobilesdk_app_id": "1:189678897245:android:8481531b59baa961d5a5b4",
         "android_client_info": {
-          "package_name": "com.example.flutix"
+          "package_name": "com.abuaziz.flutix"
         }
       },
       "oauth_client": [
         {
-          "client_id": "717698792075-0d6n13am09j7pv0bfpi00on7u6bqna96.apps.googleusercontent.com",
+          "client_id": "189678897245-q8m9d4ailv0d1mo91knbh62omb72esvk.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDSQzX27nyoBpFGrUqT5IqJa3C_9jU2OzY"
+          "current_key": "AIzaSyD5MxbANT_kRkxLGpt5N2HtyIr1GBsycAc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "717698792075-0d6n13am09j7pv0bfpi00on7u6bqna96.apps.googleusercontent.com",
+              "client_id": "189678897245-q8m9d4ailv0d1mo91knbh62omb72esvk.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

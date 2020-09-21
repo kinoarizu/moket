@@ -44,9 +44,9 @@ android {
 
     defaultConfig {
         // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
-        applicationId "com.example.flutix"
+        applicationId "com.abuaziz.flutix"
         minSdkVersion 21
-        targetSdkVersion 28
+        targetSdkVersion 29
         versionCode flutterVersionCode.toInteger()
         versionName flutterVersionName
     }
@@ -64,14 +64,6 @@ android {
             signingConfig signingConfigs.release
         }
     }
-
-    // buildTypes {
-    //     release {
-    //         // TODO: Add your own signing config for the release build.
-    //         // Signing with the debug keys for now, so `flutter run --release` works.
-    //         signingConfig signingConfigs.debug
-    //     }
-    // }
 }
 
 flutter {
@@ -80,6 +72,7 @@ flutter {
 
 dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'com.google.firebase:firebase-analytics:17.5.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
