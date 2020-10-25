@@ -8,7 +8,7 @@
 Flutix is ​​a mobile application (iOS & Android) that helps people to buy tickets to watch online through their mobile phones. Flutix also uses the data collection method to display movies that match the user's profile.
 
 ## Demo
-Get Flutix on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuazis.flutix">https://play.google.com/store/apps/details?id=com.abuazis.flutix</a>
+Get Flutix on PlayStore <a href="https://play.google.com/store/apps/details?id=com.abuaziz.flutix">https://play.google.com/store/apps/details?id=com.abuaziz.flutix</a>
 
 <p><img  src="https://i.ibb.co/93JLD0X/poster-app.png"/></p>
 
