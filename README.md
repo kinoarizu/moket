@@ -1,11 +1,11 @@
-# Flutix
+# Moket
 
-[![Fork](https://img.shields.io/github/forks/kinoarizu/Flutix?style=social)](https://github.com/kinoarizu/Flutix/fork)&nbsp; [![Star](https://img.shields.io/github/stars/kinoarizu/Flutix?style=social)](https://github.com/kinoarizu/Flutix/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/kinoarizu/Flutix?style=social)](https://github.com/kinoarizu/Flutix/)&nbsp;
+[![Fork](https://img.shields.io/github/forks/kinoarizu/Mo?style=social)](https://github.com/kinoarizu/Flutix/fork)&nbsp; [![Star](https://img.shields.io/github/stars/kinoarizu/Flutix?style=social)](https://github.com/kinoarizu/Flutix/star)&nbsp; [![Watches](https://img.shields.io/github/watchers/kinoarizu/Flutix?style=social)](https://github.com/kinoarizu/Flutix/)&nbsp;
 
 > Watch movie in theater much easier
 
 ## Description
-Flutix is ​​a mobile application (iOS & Android) that helps people to buy tickets to watch online through their mobile phones. Flutix also uses the data collection method to display movies that match the user's profile.
+Moket is ​​a mobile application (iOS & Android) that helps people to buy tickets to watch online through their mobile phones. Moket also uses the data collection method to display movies that match the user's profile.
 
 <p><img  src="https://i.ibb.co/93JLD0X/poster-app.png"/></p>
 
@@ -29,7 +29,7 @@ Flutix is ​​a mobile application (iOS & Android) that helps people to buy ti
 
 ## Installing
 
-- git clone https://github.com/kinoarizu/Flutix.git
+- git clone https://github.com/kinoarizu/Moket.git
 - get themovie db api key in <a href="https://developers.themoviedb.org/3">The Movie DB Developer</a>
 - put api key in  **lib/shared/shared_value.dart**
   ```dart
